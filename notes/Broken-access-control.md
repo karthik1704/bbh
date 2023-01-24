@@ -13,7 +13,7 @@
 
 ## Accesing Private User Data
 - horizontal access vulns
-- Finding user id prdict other user id
+- Finding user id predict other user id
 - create two accouts , use other id in your accout to access others account data and modify
 - find user id in parameter and interceptors
 
